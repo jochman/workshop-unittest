@@ -6,7 +6,7 @@ authors = ["Bar Hochman <bar@bfore.ai>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 pytest = "^7.4.0"
 requests = "^2.31.0"
 
