@@ -59,7 +59,8 @@ def test_authorize_user_with_existing_user():
 
 
 def test_authorize_user_with_non_existing_user():
-    """Given:
+    """
+    Given:
 
     When:
 
