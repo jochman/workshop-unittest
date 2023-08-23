@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Python 3.8 and up!
+Python 3.9 and up!
 
 ## Installation
 
